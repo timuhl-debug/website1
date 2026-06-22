@@ -6,12 +6,12 @@ um eine einfache Website zu erstellen und online zu deployen.
 ---
 
 ## 🌐 Live Website
-https://firsttwebsite.netlify.app/
+https://superb-smakager-a35305.netlify.app/
 
 ---
 
 ## 📁 GitHub Repository
-https://github.com/timuhl-debug/first.website
+https://github.com/timuhl-debug/website1
 
 ---
 
